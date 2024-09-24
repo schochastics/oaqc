@@ -1,5 +1,3 @@
-#' @param graph A matrix, data.frame or graph object.
-#' @return Edge list matrix.
 as.edge_list <- function(graph) {
     if (is.matrix(graph)) {
         if (length(dim(graph)) != 2 && ncol(graph) != 2) {
