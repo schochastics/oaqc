@@ -15,11 +15,13 @@ This package provides an efficient algorithm to calculate for a given graph the 
 
 ## Input
 
-The input can either be
-* Edge-List (matrix or data.frame)
-* Graph Object ('igraph')
+The input can either be an edgelist (matrix or data.frame) or a graph Object ('igraph')
 
-Despite the input format the graph should not contain loops or multi-edges and the vertex indices have to lie in range $[0,n-1)$ with $n$ denoting the number of vertices in the graph. Note that if the smallest index is $1$ the algorithm will create an isolated vertex with index $0$.
+Despite the input format the graph should not contain loops 
+or multi-edges and the vertex indices have to lie in range 
+[0,n-1) with n denoting the number of vertices in the graph. 
+Note that if the smallest index is 1 the algorithm will create
+an isolated vertex with index 0.
 
 ## Calculating the orbit-aware quad census
 
