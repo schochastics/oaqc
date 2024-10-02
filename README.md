@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# oaqc
+# oaqc <img src="man/figures/logo.png" align="right" height="139" alt="" />
 
 <!-- badges: start -->
 
@@ -90,3 +90,11 @@ can be accessed in the following way.
 k4orbits$n_orbits_ind[, 10]
 #> [1] 0 0 0 0
 ```
+
+## Acknowledgement
+
+The following resources were used for the logo:  
+[Atv icons created by Skyclick -
+Flaticon](https://www.flaticon.com/free-icons/atv)  
+[Group icons created by Vectors Market -
+Flaticon](https://www.flaticon.com/free-icons/group)

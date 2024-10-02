@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# oaqc
+# oaqc <img src="man/figures/logo.png" align="right" height="139" alt="" />
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/schochastics/oaqc/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/schochastics/oaqc/actions/workflows/R-CMD-check.yaml)
@@ -75,3 +75,9 @@ in orbit 10 can be accessed in the following way.
 ```{r}
 k4orbits$n_orbits_ind[, 10]
 ```
+
+## Acknowledgement
+
+The following resources were used for the logo:  
+[Atv icons created by Skyclick - Flaticon](https://www.flaticon.com/free-icons/atv)  
+[Group icons created by Vectors Market - Flaticon](https://www.flaticon.com/free-icons/group)
