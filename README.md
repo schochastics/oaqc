@@ -4,6 +4,10 @@
 # oaqc
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/schochastics/oaqc/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/schochastics/oaqc/actions/workflows/R-CMD-check.yaml)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/oaqc)](https://CRAN.R-project.org/package=oaqc)
 <!-- badges: end -->
 
 This package provides an efficient algorithm to calculate for a given
