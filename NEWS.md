@@ -1,6 +1,6 @@
 # oaqc 2.0.0
 
-* Maintainer switch after CRAN version archived
+* Switch of Maintainer
 * Adapted C code to recent adaption of the R/C interface 
 
 # oaqc 1.0.0

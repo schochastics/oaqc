@@ -1,0 +1,22 @@
+bibentry(
+    bibtype = "Manual",
+    title = "oaqc: Computation of the Orbit-Aware Quad Census",
+    author = c(
+        person("Mark", "Ortmann"),
+        person("Felix", "Schoenenberger"),
+        person("David", "Schoch")
+    ),
+    year = 2024,
+    note = "R package version 2.0.0"
+)
+
+bibentry("Article",
+    title = "Efficient orbit-aware triad and quad census in directed and undirected graphs",
+    author = "Mark Ortmann and Ulrik Brandes",
+    journal = "Applied Network Science",
+    year = "2017",
+    volume = "2",
+    number = "",
+    pages = "1--17",
+    doi = "10.1007/s41109-017-0027-2"
+)
